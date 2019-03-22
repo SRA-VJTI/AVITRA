@@ -6,8 +6,8 @@ Driven by NVIDIA Jeteson TX2 and open source Robot Development framework(ROS), i
 
 ![](https://www.youtube.com/watch?v=gKgR21Xq6ZY)
 
->Human Imitation
+Human Imitation
 [![Watch the video](https://img.youtube.com/vi/QTn7OEzxr-w/maxresdefault.jpg)](https://youtu.be/QTn7OEzxr-w)
 
->The Kiki Challenge
+The Kiki Challenge
 [![Watch the video](https://img.youtube.com/vi/gKgR21Xq6ZY/maxresdefault.jpg)](https://youtu.be/gKgR21Xq6ZY)
